@@ -1,0 +1,38 @@
+#divx{
+    background-color: rgb(92, 89, 89);
+    color: rgb(8, 8, 8);
+    margin-top: 100;
+}
+#lione{
+    width: 25%;
+    margin-left: 20px;
+}
+#litwo{
+    width: 25%;
+    margin-left: 20px;
+}
+#lithree{
+    width: 25%;
+    margin-left: 20px
+}
+#divcrd{
+    margin-top: 40px;
+}
+#divcrdd{
+    margin-top: 60px;
+}    
+#divnav{
+    background-color: linear-gradient( rgb(9, 9, 51) , rgb(168, 164, 164) );
+}
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+h5{
+    font-family: monospace;
+    font-style: italic;
+    font
+}
+body{
+    background : linear-gradient(to right , rgb(56, 55, 55) ,rgb(9, 2, 27) )
+}

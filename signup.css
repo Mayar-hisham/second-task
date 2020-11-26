@@ -1,0 +1,21 @@
+body{
+    background : linear-gradient(to right , rgb(56, 55, 55) ,rgb(9, 2, 27) )
+}
+#divsu{
+    margin-top: 150px;
+    margin-left: 35%;
+    border-color: white;
+    border-style: solid;
+}
+label{
+    color: white;
+}
+a{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+}
+#divx{
+    background-color: rgb(92, 89, 89);
+    color: rgb(8, 8, 8);
+    margin-top: 100;
+}
